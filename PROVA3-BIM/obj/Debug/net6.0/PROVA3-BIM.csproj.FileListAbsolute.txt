@@ -1,0 +1,15 @@
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\bin\Debug\net6.0\PROVA3-BIM.exe
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\bin\Debug\net6.0\PROVA3-BIM.deps.json
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\bin\Debug\net6.0\PROVA3-BIM.runtimeconfig.json
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\bin\Debug\net6.0\PROVA3-BIM.dll
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\bin\Debug\net6.0\PROVA3-BIM.pdb
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\obj\Debug\net6.0\PROVA3-BIM.csproj.AssemblyReference.cache
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\obj\Debug\net6.0\PROVA3-BIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\obj\Debug\net6.0\PROVA3-BIM.AssemblyInfoInputs.cache
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\obj\Debug\net6.0\PROVA3-BIM.AssemblyInfo.cs
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\obj\Debug\net6.0\PROVA3-BIM.csproj.CoreCompileInputs.cache
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\obj\Debug\net6.0\PROVA3-BIM.dll
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\obj\Debug\net6.0\refint\PROVA3-BIM.dll
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\obj\Debug\net6.0\PROVA3-BIM.pdb
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\obj\Debug\net6.0\PROVA3-BIM.genruntimeconfig.cache
+C:\Users\daluz\source\PROVA3-BIM\PROVA3-BIM\obj\Debug\net6.0\ref\PROVA3-BIM.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROVA3-BIM", "PROVA3-BIM\PROVA3-BIM.csproj", "{50D6D62F-46FD-4D9A-AD71-2061246B6B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D6D62F-46FD-4D9A-AD71-2061246B6B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D6D62F-46FD-4D9A-AD71-2061246B6B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D6D62F-46FD-4D9A-AD71-2061246B6B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D6D62F-46FD-4D9A-AD71-2061246B6B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05AFD6B2-3DB5-4BE2-A412-F7034143AEA0}
+	EndGlobalSection
+EndGlobal
